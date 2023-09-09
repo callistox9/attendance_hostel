@@ -1,0 +1,15 @@
+<src/styles/LoginComponent.css>
+.login {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.login .MuiButton-containedPrimary {
+  background-color: #3f51b5;
+}
+
+.login .MuiButton-colorSecondary {
+  color: #f50057;
+}
